@@ -2,7 +2,7 @@
 
 I have extensive experience in web development from backend servers to frontend applications. And I like to develop new products and create open-source tools.
 
-My current main languages are JavaScript and TypeScript. Previously I coded in Java, C# and Python a lot. I have experience in the development of architectural designs of software systems. I also have experience in related areas: business analytics, quality assurance and DevOps.
+My current main languages are JavaScript and TypeScript. Previously I coded in Java, C# and Python a lot.
 
 You can follow me on [LinkedIn](https://www.linkedin.com/in/mnasyrov/).
 
