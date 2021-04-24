@@ -14,7 +14,7 @@ My current main languages are JavaScript and TypeScript. Previously I coded in J
 
 ## My Projects
 
-🍋 [Ditox.js](https://github.com/mnasyrov/ditox) – a dependency injection container for JavaScript, Typescript and Flow. [![GitHub stars](https://img.shields.io/github/stars/mnasyrov/ditox)](https://github.com/mnasyrov/ditox/stargazers)
+🍋 [Ditox.js](https://github.com/mnasyrov/ditox) – a dependency injection container for JavaScript, Typescript and Flow.
 
 💰 [Monento](https://monento.com) – app for tracking personal finances with encrypted data syncing. Available on [Android](https://play.google.com/store/apps/details?id=com.monento.app), [iOS](https://itunes.apple.com/app/id1358591666), [MacOS](https://itunes.apple.com/app/id1425801329), [Windows](https://monento.com/#download) and [Linux](https://snapcraft.io/monento).
 
