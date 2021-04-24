@@ -4,7 +4,7 @@ I have extensive experience in web development from backend servers to frontend 
 
 My current main languages are JavaScript and TypeScript. Previously I coded in Java, C# and Python a lot.
 
-You can follow me on [LinkedIn](https://www.linkedin.com/in/mnasyrov/).
+You can follow me on [LinkedIn](https://www.linkedin.com/in/mnasyrov/). My CV in [English](cv-en.md) and [Russian](cv-ru.md).
 
 <!--
 **mnasyrov/mnasyrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
