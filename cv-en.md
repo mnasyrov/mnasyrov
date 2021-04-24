@@ -1,4 +1,4 @@
-# Mikhail Nasyrov
+# [Mikhail Nasyrov](https://mnasyrov.com)
 
 <p>
   <img alt="photo" src="https://avatars.githubusercontent.com/u/445680" width="100" style="width: 100px; max-width: 40%; border-radius: 10%; float: left; margin-right: 20px"/>
