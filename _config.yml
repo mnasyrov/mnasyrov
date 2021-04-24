@@ -11,4 +11,10 @@ social:
     - https://twitter.com/mnasyrov
     - https://www.linkedin.com/in/mnasyrov
     - https://github.com/mnasyrov
-
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: ru
+      noSiteTitle: true
