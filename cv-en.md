@@ -41,7 +41,7 @@ I'm looking for a team of enthusiasts and professionals to build great products 
 
 I lead a team of frontend developers, which work on a platform for video-conference calls and enterprise messengers. I do sprint planning and task estimations. I design software architectures and requirements for the platform, web and desktop applications. I mentor teammates and perform code reviewing, and I conduct technical interviews.
 
-Проекты:
+Projects:
 
 - **Jazz by Sber** - a service for video-conference calls.
 - **Messaging Platform** - an enterprise messaging platform in SberBank.
