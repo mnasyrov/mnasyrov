@@ -12,20 +12,19 @@
 
 ## About
 
-Experienced Software Engineer and Team Lead. Skilled in JavaScript, Java and .NET on the frontend and backend. I know how to create and bring a product from requirements and notes on a napkin to deployment in production. I'm always open to new ideas and help people do amazing things.
+Experienced Team Lead and Software Engineer with fourteen years' experience. Skilled in JavaScript, Java and .NET in the frontend and backend apps. I know how to create a product from business requirements and to deploy it in a production environment. I'm always open to new ideas and help people do amazing things.
 
 I'm looking for a team of enthusiasts and professionals to build great products together.
 
 
 ## Skills
 
-- Web development (full stack), hybrid mobile applications
-- Business analytics, software architecture, prototyping
-- Team leading, workflow organization, code review, mentoring
+- Development of web and desktop applications
+- Team leading, Business analytics, software architecture
 - Frontend:
   - Javascript, Typescript, Flow.js
-  - React, Redux, Angular, RxJS, Cordova, Ionic, Electron
-  - HTML, CSS, REST API, JSON-RPC, WebSocket
+  - React, Redux, Electron, RxJS, Angular, Cordova, Ionic
+  - WebSocket, WebRTC, gRPC, JSON-RPC, REST API, HTML, CSS
 - Backend:
   - Java, Kotlin, Javascript, Python, C#
   - Spring, Hibernate, RxJava, Node.js
@@ -35,19 +34,33 @@ I'm looking for a team of enthusiasts and professionals to build great products 
 
 ## Experience
 
+### SberBank
+
+**Team Lead** <br />
+<small>March 2021 – Present • Novosibirsk, Russia</small>
+
+I lead a team of frontend developers, which work on a platform for video-conference calls and enterprise messengers. I do sprint planning and task estimations. I design software architectures and requirements for the platform, web and desktop applications. I mentor teammates and perform code reviewing, and I conduct technical interviews.
+
+Проекты:
+
+- **Jazz by Sber** - a service for video-conference calls.
+- **Messaging Platform** - an enterprise messaging platform in SberBank.
+
+**Tools**: Javascript, Typescript, Flow.js, React, RxJS, Jest, Electron, Node.js, Java, HTML, CSS, Webpack, Dexie.js
+
 ### Dialog LLC
 
 **Lead Software Engineer** <br />
-<small>March 2019 – Present • Novosibirsk, Russia</small>
+<small>March 2019 – March 2021 (2 years) • Novosibirsk, Russia</small>
 
-Development of a corporate messenger: a web platform, web and desktop apps. Architecture and technical stack of the web platform. Mentoring teammates, code reviewing. Supervising web development in R&D team. Performing technical interviews. Responsible for low-level platform parts including: DB layer with encryption, gRPC proxy for web apps, API and security layers.
+I worked on development of a messaging platform for an enterprise environment including web and desktop applications. I designed key parts of architecture of the web platform. I developed low-level parts of the platform like database layer, API clients with the gRPC proxy server and others. At the same time I mentored teammates, performed code reviewing and participated in technical interviews. 
 
 Projects:
 
-- **Dialog** – a platform for corporate messengers (<https://dlg.im>).
-- **SberChat** – a corporate messenger for Sberbank.
+- **Dialog** – a messaging platform for an enterprise environment  (<https://dlg.im>).
+- **SberChat** – an enterprise messenger for SberBank.
 
-**Tools**: Javascript, Typescript, Flow.js, React, RxJS, Jest, Electron, Node.js, Java, HTML, CSS, Webpack.
+**Tools**: Javascript, Typescript, Flow.js, React, RxJS, Jest, Electron, Node.js, Java, HTML, CSS, Webpack, Dexie.js
 
 
 ### Monento
@@ -119,8 +132,6 @@ Projects:
 Web-application development, task analysis, estimations, implementation, testing.
 
 Worked on a prototype and the first releases of **"e-Yield" project** – online booking service for cargo business. This project was a part of "arl-shipping.com" platform (<https://www.arl-shipping.com>) and was discontinued after 2017. I worked on feature analysis and task estimations together with business analysts and project manager. I quickly dealt with C# and .NET framework and successfully used them in development. Collaborated with QA specialists and occasionally took part in manual testing session to help them to deliver a release in time.
-
-In December 2007 the company was divided and I was transferred to Novoprof B.V.
 
 **Tools**: C#, ASP.NET, MS SQL, JavaScript, HTML, CSS, web services.
 
