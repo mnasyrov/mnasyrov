@@ -39,7 +39,7 @@ I'm looking for a team of enthusiasts and professionals to build great products 
 **Team Lead** <br />
 <small>March 2021 – Present • Novosibirsk, Russia</small>
 
-I lead a team of frontend developers, which works on a platform for video-conference calls and enterprise messengers. I do sprint planning and task estimations. I design software architectures and requirements for the platform, web and desktop applications. I mentor teammates and perform code reviewing, and I conduct technical interviews.
+I work for SberDevices department and lead a team of frontend developers, which develops a platform for video-conference calls and enterprise messengers. At the same time, I work in a lead software engineer role: design software architectures and requirements for the platform, web and desktop applications. I mentor teammates and conduct technical interviews.
 
 Projects:
 
