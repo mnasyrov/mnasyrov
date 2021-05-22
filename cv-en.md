@@ -39,7 +39,7 @@ I'm looking for a team of enthusiasts and professionals to build great products 
 **Team Lead** <br />
 <small>March 2021 – Present • Novosibirsk, Russia</small>
 
-I lead a team of frontend developers, which work on a platform for video-conference calls and enterprise messengers. I do sprint planning and task estimations. I design software architectures and requirements for the platform, web and desktop applications. I mentor teammates and perform code reviewing, and I conduct technical interviews.
+I lead a team of frontend developers, which works on a platform for video-conference calls and enterprise messengers. I do sprint planning and task estimations. I design software architectures and requirements for the platform, web and desktop applications. I mentor teammates and perform code reviewing, and I conduct technical interviews.
 
 Projects:
 
@@ -57,8 +57,8 @@ I worked on development of a messaging platform for an enterprise environment in
 
 Projects:
 
-- **Dialog** – a messaging platform for an enterprise environment  (<https://dlg.im>).
-- **SberChat** – an enterprise messenger for SberBank.
+- **Dialog** – a messaging platform for an enterprise environment  (<https://dlg.im>)
+- **SberChat** – an enterprise messenger for SberBank
 
 **Tools**: Javascript, Typescript, Flow.js, React, RxJS, Jest, Electron, Node.js, Java, HTML, CSS, Webpack, Dexie.js
 
