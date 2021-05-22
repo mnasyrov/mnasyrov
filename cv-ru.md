@@ -46,7 +46,7 @@
 - **Jazz by Sber** - сервис для проведения видео-конференций
 - **Messaging Platform** - платформа обмена сообщениями в корпоративной среде 
 
-**Инструменты**: Javascript, Typescript, Flow.js, React, RxJS, Jest, Electron, Node.js, Java, HTML, CSS, Webpack, Dexie.js
+**Инструменты**: Javascript, Typescript, Flow.js, React, RxJS, Jest, Electron, Node.js, HTML, CSS, Webpack, Dexie.js
 
 
 ### ООО "Диалог"

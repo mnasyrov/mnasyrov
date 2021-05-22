@@ -46,7 +46,7 @@ Projects:
 - **Jazz by Sber** - a service for video-conference calls
 - **Messaging Platform** - an enterprise messaging platform
 
-**Tools**: Javascript, Typescript, Flow.js, React, RxJS, Jest, Electron, Node.js, Java, HTML, CSS, Webpack, Dexie.js
+**Tools**: Javascript, Typescript, Flow.js, React, RxJS, Jest, Electron, Node.js, HTML, CSS, Webpack, Dexie.js
 
 ### Dialog LLC
 
