@@ -12,7 +12,7 @@
 
 ## About
 
-Experienced Team Lead and Software Engineer with fourteen years' experience. Skilled in JavaScript, Java and .NET in the frontend and backend apps. I know how to create a product from business requirements and to deploy it in a production environment. I'm always open to new ideas and help people do amazing things.
+Experienced Team Lead and Software Engineer with fourteen years of experience. Skilled in JavaScript, Java, and .NET in the frontend and backend apps. I know how to create a product from business requirements and to deploy it in a production environment. I'm always open to new ideas and help people do amazing things.
 
 I'm looking for a team of enthusiasts and professionals to build great products together.
 
@@ -53,7 +53,7 @@ Projects:
 **Lead Software Engineer** <br />
 <small>March 2019 – March 2021 (2 years) • Novosibirsk, Russia</small>
 
-I worked on development of a messaging platform for an enterprise environment including web and desktop applications. I designed key parts of architecture of the web platform. I developed low-level parts of the platform like database layer, API clients with the gRPC proxy server and others. At the same time I mentored teammates, performed code reviewing and participated in technical interviews. 
+I worked on development of a messaging platform for an enterprise environment including web and desktop applications. I designed key parts of architecture of the web platform. I developed low-level parts of the platform like database layer, API clients with the gRPC proxy server and others. At the same time, I mentored teammates, performed code reviewing and participated in technical interviews. 
 
 Projects:
 
@@ -85,7 +85,7 @@ The product is published in app stores: AppStore, Google Play, Snapcraft. The ap
 **Senior Software Engineer, Technical Leader** <br />
 <small>October 2011 – December 2015 (4 years 3 months) • Novosibirsk, Russia</small>
 
-Software development. System analytics, project planning. Architecture design of applications and systems. Researching and prototyping. Organizing a team work, mentoring, code reviewing. As the lead, I worked with a team of 7 engineers and QA specialists and communicated with teams of American customers.
+Software development. System analytics, project planning. Architecture design of applications and systems. Researching and prototyping. Organizing a team work, mentoring, code reviewing. As the lead, I worked with a team of 7 engineers and communicated with teams of American customers.
 
 Projects:
 
@@ -97,7 +97,7 @@ Projects:
 
   **Tools**: Java, JavaScript, Spring, Tomcat, HTML/CSS, Dojo, Hibernate, JUnit.
 
-- **LogAnalyzer**  – plugin for Jenkins CI server which analyses big build logs by a custom PEG-parser and provides structured and easy-navigable output.
+- **LogAnalyzer**  – plugin for Jenkins CI server which analyses big build logs by a custom PEG-parser and provides structured output.
 
   **Tools**: Fantom, JavaScript, JUnit, HTML, CSS, Maven, Jenkins.
 
@@ -156,7 +156,7 @@ Development of extensions for Mozilla Firefox browser. In a short time I studied
 Majors:
 
 - Computer analysis and data interpretation
-- Computers, computer systems and networks
+- Computers, computer systems, and networks
 
 
 ### Contests
