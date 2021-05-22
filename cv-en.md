@@ -43,8 +43,8 @@ I lead a team of frontend developers, which work on a platform for video-confere
 
 Projects:
 
-- **Jazz by Sber** - a service for video-conference calls.
-- **Messaging Platform** - an enterprise messaging platform in SberBank.
+- **Jazz by Sber** - a service for video-conference calls
+- **Messaging Platform** - an enterprise messaging platform
 
 **Tools**: Javascript, Typescript, Flow.js, React, RxJS, Jest, Electron, Node.js, Java, HTML, CSS, Webpack, Dexie.js
 
