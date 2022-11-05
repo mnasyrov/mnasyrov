@@ -4,4 +4,4 @@ I'm a lead software engineer and have extensive experience in web development: f
 
 My languages are JavaScript, TypeScript, Java, C# and Python.
 
-You can follow me on [LinkedIn](https://www.linkedin.com/in/mnasyrov/). My CV is [here](https://github.com/mnasyrov/mnasyrov/raw/master/mnasyrov-resume.pdf).
+You can follow me on [LinkedIn](https://www.linkedin.com/in/mnasyrov/).
