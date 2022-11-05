@@ -25,4 +25,3 @@ My languages are JavaScript, TypeScript, Java, C# and Python.
 ## Contacts
 
 You can follow me on [GitHub](https://github.com/mnasyrov) and [LinkedIn](https://www.linkedin.com/in/mnasyrov/). 
-My CV is [here](https://github.com/mnasyrov/mnasyrov/raw/master/mnasyrov-resume.pdf).
