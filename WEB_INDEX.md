@@ -6,8 +6,6 @@ permalink: /
 
 <img alt="photo" src="https://avatars.githubusercontent.com/u/445680" width="160" style="width: 160px; max-width: 40%; border-radius: 10%;"/>
 
-## Hi there 👋
-
 I'm a lead software engineer and have extensive experience in web development: from backend servers to frontend applications. And I like to develop new products and create open-source tools.
 
 My languages are JavaScript, TypeScript, Java, C# and Python.
